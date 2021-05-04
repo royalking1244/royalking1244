@@ -1,0 +1,14 @@
+git clone https://github.com/TroJanzHEX/Auto-Filter-Bot 
+cd Auto-Filter-Bot -V2
+pip3 install -r requirements.txt 
+# <Create config.py appropriately> 
+python3 main.py- 👋 Hi, I’m @royalking1244
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+royalking1244/royalking1244 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
